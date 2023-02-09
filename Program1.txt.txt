@@ -2,5 +2,7 @@ class Display{
 public void main(String [] args)
 {
 System.out.println("Hello , How are you");
+System.out.println("Hello ");
+
 }
 }
